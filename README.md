@@ -1,6 +1,6 @@
-# BW-8200C 蓝色机器界面
+# BW-8200C Blue Device UI
 
-解压 GitHub 下载的 ZIP，在浏览器打开根目录的 `index.html`，即可进入蓝色待机主界面。所有脚本、样式和图片均在仓库内，可离线使用。界面以 1280 × 800 为设计尺寸，窗口变化时等比缩放。
+This standalone interface for the BW-8200C blood recovery system opens on the blue standby screen. Download and extract the repository ZIP, then open `index.html` in a browser. All scripts, styles, and images are included for offline use. The layout scales proportionally from its 1280 × 800 design size.
 
 ## 本地开发
 
